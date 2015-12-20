@@ -1,0 +1,43 @@
+Digi-Key Part Number,Manufacturer,Manufacturer Part Number,Customer Reference,Quantity 1,Quantity 2,Quantity 3,Mfg Std Lead Time,Description,Comments,RoHS Status,Lead Free Status,REACH Status
+1481-1083-ND,ELECTRONIC ASSEMBLY GMBH,EA DOGM163W-A,LCD1,1,0,0,3 Weeks,LCD MOD CHAR 3X16 BLK/W,,RoHS Compliant,Lead free,Not Available
+1481-1153-ND,ELECTRONIC ASSEMBLY GMBH,EA LED55X31-A,LCD1-BL,1,0,0,3 Weeks,LED B/L FOR DOG-M AMBER,,RoHS Compliant,Lead free,Not Available
+644-1037-1-ND,NDK (VA),NX5032GA-16.000000MHZ-LN-CD-1,X1,1,0,0,8 Weeks,CRYSTAL 16.0000MHZ 8PF SMD,Alternate Packaging Exists,RoHS Compliant,Lead free by exemption,Unaffected Dec-2014
+455-1792-1-ND,JST SALES AMERICA INC (VA),BM06B-SRSS-TB(LF)(SN),CN1,1,0,0,14 Weeks,CONN HEADER SH 6POS TOP 1MM TIN,Alternate Packaging Exists,RoHS Compliant,Lead free,Not Available
+311-150KHRCT-ND,YAGEO (VA),RC0603FR-07150KL,R4,1,0,0,22 Weeks,RES SMD 150K OHM 1% 1/10W 0603,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+A19432-ND,TE CONNECTIVITY AMP,640454-5,JP1,1,0,0,15 Weeks,CONN HEADER VERT 5POS .100 TIN,,RoHS Compliant,Lead free,Not Available
+445-7645-1-ND,TDK CORPORATION (VA),C2012X5R1C106M085AC,C15,0,0,0,10 Weeks,CAP CER 10UF 16V X5R 0805,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+160-1827-1-ND,LITE-ON INC (VA),LTST-C193TBKT-5A,LED4,1,0,0,10 Weeks,LED BLUE CLEAR 0603 SMD,Alternate Packaging Exists,RoHS Compliant,Lead free,Not Available
+BC2292CT-ND,VISHAY BC COMPONENTS (VA),NTCS0805E3103JMT,TH1,1,0,0,12 Weeks,THERMISTOR NTC 10K OHM 0805 SMD,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2011
+BK-912-ND,MEMORY PROTECTION DEVICES,BK-912,BAT5,1,0,0,10 Weeks,HOLDER COIN CELL 20MM SMD,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+CKN9098-ND,C&K COMPONENTS,PTS645SL43-2 LFS,SW1,1,0,0,13 Weeks,SWITCH TACTILE SPST-NO 0.05A 12V,,RoHS Compliant,Lead free,Unaffected Jun-2015
+ATMEGA328P-AU-ND,ATMEL,ATMEGA328P-AU,U5,1,0,0,6 Weeks,IC MCU 8BIT 32KB FLASH 32TQFP,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+36-92-ND,KEYSTONE ELECTRONICS,92,BAT1-4,8,0,0,4 Weeks,CLIP BATTERY AA PC MNT,,RoHS Compliant,Lead free,Unaffected Jun-2014
+LT3652EMSE#PBF-ND,LINEAR TECHNOLOGY,LT3652EMSE#PBF,U2,1,0,0,9 Weeks,IC BATTERY CHARGER SOLAR 12MSOP,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+CP-002A-ND,CUI INC,PJ-002A,CN3,0,0,0,9 Weeks,CONN POWER JACK 2.1MM,,RoHS Compliant,Lead free,Not Available
+828-1027-1-ND,,BMP180,U3,1,0,0,,SENSOR PRESSURE ABS,Supplier no longer carried by Digi-Key,RoHS Compliant,Lead free,Not Available
+709-1143-1-ND,JOHANSON DIELECTRICS INC (VA),500R14N220JV4T,C1,0,0,0,8 Weeks,CAP CER 22PF 50V NP0 0603,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+480-3284-1-ND,HONEYWELL SENSING AND PRODUCTIVITY SOLUTIONS (VA),HIH-5031-001,U4,1,0,0,2 Weeks,HUMIDITY SENSOR SMD 3% W/FILTER,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Dec-2011
+311-200KGRCT-ND,YAGEO (VA),RC0603JR-07200KL,R1,1,0,0,22 Weeks,RES SMD 200K OHM 5% 1/10W 0603,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+296-22055-1-ND,TEXAS INSTRUMENTS (VA),TMP102AIDRLT,U1,1,0,0,6 Weeks,SENSOR TEMPERATURE SMBUS SOT563,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Dec-2014
+MCP1802T-3302I/OTCT-ND,MICROCHIP TECHNOLOGY (VA),MCP1802T-3302I/OT,U6,1,0,0,9 Weeks,IC REG LDO 3.3V 0.3A SOT23-5,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+478-1239-1-ND,AVX CORPORATION (VA),0603YC104KAT2A,C3-C12,9,0,0,2 Weeks,CAP CER 0.1UF 16V X7R 0603,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+490-1543-1-ND,MURATA ELECTRONICS (VA),GRM188R61A105KA61D,C13-14,2,0,0,10 Weeks,CAP CER 1UF 10V X5R 0603,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+B340B-FDICT-ND,DIODES INCORPORATED (VA),B340B-13-F,D1,0,0,0,6 Weeks,DIODE SCHOTTKY 40V 3A SMB,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Dec-2014
+TC33X-103ECT-ND,BOURNS INC (VA),TC33X-2-103E,TR1,1,0,0,12 Weeks,TRIMMER 10K OHM 0.1W SMD,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+311-330KHRCT-ND,YAGEO (VA),RC0603FR-07330KL,R5,1,0,0,22 Weeks,RES SMD 330K OHM 1% 1/10W 0603,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+311-180KHRCT-ND,YAGEO (VA),RC0603FR-07180KL,R3,1,0,0,22 Weeks,RES SMD 180K OHM 1% 1/10W 0603,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+432-1164-ND,CARLING TECHNOLOGIES,2M1-SP1-T2-B4-M6RE,SW2,1,0,0,10 Weeks,SWITCH TOGGLE SPDT 0.4VA 20V,,RoHS Compliant,Lead free,Unaffected Jun-2010
+445-7633-1-ND,TDK CORPORATION (VA),C2012X5R1C105M085AA,C17,1,0,0,10 Weeks,CAP CER 1UF 16V X5R 0805,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+311-10KGRCT-ND,YAGEO (VA),RC0603JR-0710KL,R7,0,0,0,22 Weeks,RES SMD 10K OHM 5% 1/10W 0603,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+101-00660-68-6-1-ND,AMPHENOL COMMERCIAL PRODUCTS (VA),101-00660-68-6,CN4,1,0,0,10 Weeks,CONN MICRO SD CARD PUSH-PUSH R/A,Alternate Packaging Exists,RoHS Compliant,Lead free,Not Available
+311-348KHRCT-ND,YAGEO (VA),RC0603FR-07348KL,R2,1,0,0,22 Weeks,RES SMD 348K OHM 1% 1/10W 0603,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+LNJ237W82RACT-ND,PANASONIC ELECTRONIC COMPONENTS (VA),LNJ237W82RA,LED3,1,0,0,14 Weeks,LED RED 0603 SMD,Alternate Packaging Exists,RoHS Compliant,Lead free,Not Available
+399-3123-1-ND,KEMET (VA),C0805C185K8PACTU,C18,1,0,0,6 Weeks,CAP CER 1.8UF 10V X5R 0805,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2014
+P13681CT-ND,PANASONIC ELECTRONIC COMPONENTS (VA),LNJ426W83RA,LED2,1,0,0,14 Weeks,LED AMBER 0603 SMD,Alternate Packaging Exists,RoHS Compliant,Lead free,Not Available
+LNJ337W83RACT-ND,PANASONIC ELECTRONIC COMPONENTS (VA),LNJ337W83RA,LED1,1,0,0,14 Weeks,LED GREEN 0603 SMD,Alternate Packaging Exists,RoHS Compliant,Lead free,Not Available
+F2110CT-ND,LITTELFUSE INC (VA),1206L025YR,F1,1,0,0,11 Weeks,FUSE PTC RESET 16V .25A 1206,Alternate Packaging Exists,RoHS Compliant,Lead free,Not Available
+1N914BWSCT-ND,FAIRCHILD SEMICONDUCTOR (VA),1N914BWS,D3,1,0,0,6 Weeks,DIODE GEN PURP 75V 150MA SOD323F,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+587-2634-1-ND,TAIYO YUDEN (VA),NR6045T330M,L1,1,0,0,5 Weeks,FIXED IND 33UH 1.4A 188.5 MOHM,Alternate Packaging Exists,RoHS Compliant,Lead free,Not Available
+311-470GRCT-ND,YAGEO (VA),RC0603JR-07470RL,R9,1,0,0,22 Weeks,RES SMD 470 OHM 5% 1/10W 0603,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+311-100GRCT-ND,YAGEO (VA),RC0603JR-07100RL,R11,1,0,0,22 Weeks,RES SMD 100 OHM 5% 1/10W 0603,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
+CSRN2512FKR330CT-ND,STACKPOLE ELECTRONICS INC (VA),CSRN2512FKR330,R6,1,0,0,8 Weeks,RES SMD 0.33 OHM 1% 2W 2512,Alternate Packaging Exists,RoHS Compliant,Lead free,Unaffected Jun-2015
